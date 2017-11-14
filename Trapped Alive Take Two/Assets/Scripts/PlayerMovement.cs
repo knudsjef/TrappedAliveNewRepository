@@ -139,33 +139,54 @@ public class PlayerMovement : MonoBehaviour
         {
             Application.Quit();
         }
+
         //Check if theres any right input
         if ((Input.GetKey(PlayerPrefs.GetString("Move Right Key"))))
         {
-            //Move right
-            if (Fallen)
+            if (CanJump)
             {
-                Move(-Player.transform.up);
+                //Move right
+                if (Fallen)
+                {
+                    Move(-Player.transform.up);
+                }
+                else
+                {
+                    Move(Player.transform.right);
+                }
+                Left = false;
             }
             else
             {
-                Move(Player.transform.right);
+                if ((Left) && PlayerRigid.velocity.x <= 0)
+                {
+                    PlayerRigid.velocity = new Vector2(PlayerRigid.velocity.x + 20 * Time.deltaTime, PlayerRigid.velocity.y);
+                }
             }
-            Left = false;
         }
         //Check if theres any left input
         else if ((Input.GetKey(PlayerPrefs.GetString("Move Left Key").ToLower())))
         {
-            //Move left
-            if (Fallen)
+            if (CanJump)
             {
-                Move(Player.transform.up);
+                //Move left
+                if (Fallen)
+                {
+                    Move(Player.transform.up);
+                }
+                else
+                {
+                    Move(-Player.transform.right);
+                }
+                Left = true;
             }
             else
             {
-                Move(-Player.transform.right);
+                if ((Left == false) && PlayerRigid.velocity.x >= 0)
+                {
+                    PlayerRigid.velocity = new Vector2(PlayerRigid.velocity.x - 20 * Time.deltaTime, PlayerRigid.velocity.y);
+                }
             }
-            Left = true;
         }
 
         //Check if SPACE is pressed
@@ -192,28 +213,21 @@ public class PlayerMovement : MonoBehaviour
         //Check if LEFT SHIFT is pressed
         if (Input.GetKey(PlayerPrefs.GetString("Fall Key")))
         {
-            //If the player is a square
-            if (IsSquare)
-            {
-                //If the LEFT MOUSE BUTTON is pressed
-                if (Input.GetMouseButtonDown(0))
-                {
-                    //Teleport
-                    Teleport();
-                }
-            }
             //If the player is not a square but a rectangle
-            else if (IsRect)
+            if (IsRect)
             {
                 //Make the rectangle fall
                 RectFall();
             }
         }
         //Check if the player stops pressing the horizontal move keys
-        if (Input.GetKeyUp(PlayerPrefs.GetString("Move Right Key")) || Input.GetKeyUp(PlayerPrefs.GetString("Move Left Key")))
+        if (CanJump)
         {
-            //Stop the player movement
-            PlayerRigid.velocity = new Vector2(0, PlayerRigid.velocity.y);
+            if (Input.GetKeyUp(PlayerPrefs.GetString("Move Right Key")) || Input.GetKeyUp(PlayerPrefs.GetString("Move Left Key")))
+            {
+                //Stop the player movement
+                PlayerRigid.velocity = new Vector2(0, PlayerRigid.velocity.y);
+            }
         }
     }
 
@@ -237,22 +251,11 @@ public class PlayerMovement : MonoBehaviour
             //If the player is a square
             if (IsSquare)
             {
-                //If the player is facing left
-                if (Left)
-                {
-                    //Jump left
-                    PlayerRigid.velocity = new Vector2(-JumpDistance, JumpHeight);
-                    //The player can no longer jump
-                    CanJump = false;
-                }
-                //If the player is facing right
-                else
-                {
-                    //Jump right
-                    PlayerRigid.velocity = new Vector2(JumpDistance, JumpHeight);
-                    //The player can no longer jump
-                    CanJump = false;
-                }
+                //Jump
+                PlayerRigid.velocity = new Vector2(2 * PlayerRigid.velocity.x, JumpHeight);
+                //The player can no longer jump
+                CanJump = false;
+                Debug.Log(2 * PlayerRigid.velocity.x);
             }
             //If the player is not a square
             else
@@ -400,9 +403,8 @@ public class PlayerMovement : MonoBehaviour
         //Refit the collider for the square
         RectCollider.offset = SquareOffset;
         RectCollider.size = SquareSize;
-        //Set the jump parameters for the square
-        JumpDistance = 10;
-        JumpHeight = 6;
+        //Set the jump height parameter for the square
+        JumpHeight = 3;
         //Change the move speed for the square
         MoveSpeed = 300;
         //The player is now a square...
@@ -426,11 +428,10 @@ public class PlayerMovement : MonoBehaviour
         //Refit the collider for the rectangle
         RectCollider.offset = RectangleOffset;
         RectCollider.size = RectangleSize;
-        //Set the jump parameters for the rectangle
-        JumpDistance = 0;
+        //Set the jump height parameter for the rectangle
         JumpHeight = RectJumpHeight;
         //Change the move speed for the rectangle
-        MoveSpeed = 3;
+        MoveSpeed = 150;
         //The player is now a rectangle...
         IsRect = true;
         //...not a square
