@@ -31,7 +31,6 @@ public class DoorOpenClose : MonoBehaviour
         }
         else
         {
-            Debug.Log("Off");
             if (this.transform.localScale.y < 1)
             {
                 this.transform.localScale = new Vector2(transform.localScale.x, transform.localScale.y + SPEED_MULTIPLIER * Time.deltaTime);
