@@ -14,6 +14,14 @@ public class PlayerMovement : MonoBehaviour
     float MoveSpeed = 5;
 
     [SerializeField]
+    [Range(0, 10)]
+    float fallMultiplier = 2.5f;
+
+    [SerializeField]
+    [Range(0, 10)]
+    float lowJumpMultiplier = 2f;
+
+    [SerializeField]
     //The distance the player will jump
     float JumpDistance;
 
@@ -210,6 +218,14 @@ public class PlayerMovement : MonoBehaviour
             }
         }
 
+        if(PlayerRigid.velocity.y < 0)
+        {
+            PlayerRigid.velocity += Vector2.up * Physics2D.gravity.y * (fallMultiplier - 1) * Time.deltaTime;
+        } else if(PlayerRigid.velocity.y > 0 && !Input.GetKey(JumpKey))
+        {
+            PlayerRigid.velocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier - 1) * Time.deltaTime;
+        }
+
         //Check if LEFT SHIFT is pressed
         if (Input.GetKey(PlayerPrefs.GetString("Fall Key")))
         {
@@ -404,7 +420,7 @@ public class PlayerMovement : MonoBehaviour
         RectCollider.offset = SquareOffset;
         RectCollider.size = SquareSize;
         //Set the jump height parameter for the square
-        JumpHeight = 3;
+        JumpHeight = 4;
         //Change the move speed for the square
         MoveSpeed = 300;
         //The player is now a square...
