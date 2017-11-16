@@ -1,42 +1,15 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class CameraController : MonoBehaviour {
+public class CameraController : MonoBehaviour
+{
+    public Transform target;
+    public float smoothSpeed = 10f;
+    public Vector3 offset = new Vector3(0, 2, -10);
 
-    [SerializeField]
-    GameObject TopBound;
-
-    [SerializeField]
-    GameObject BottomBound;
-
-    [SerializeField]
-    GameObject RightBound;
-
-    [SerializeField]
-    GameObject LeftBound;
-
-    [SerializeField]
-    GameObject Player;
-
-	// Use this for initialization
-	void Start () {
-        Application.targetFrameRate = 50;
-	}
-
-    // Update is called once per frame
-    /*void Update () {
-
-        
-        this.transform.position = new Vector3(Mathf.Clamp(GameObject.Find("Player").transform.position.x, LeftBound.transform.position.x, RightBound.transform.position.x), Mathf.Clamp(GameObject.Find("Player").transform.position.y, BottomBound.transform.position.y, TopBound.transform.position.y), this.transform.position.z);
-        Mathf.Clamp(this.transform.position.x, LeftBound.transform.position.x, RightBound.transform.position.x);
-        Mathf.Clamp(this.transform.position.y, BottomBound.transform.position.y, TopBound.transform.position.y);
-        
-        
-	}*/
-    private void LateUpdate()
+    private void FixedUpdate()
     {
-
+        Vector3 desiredPosition = target.position + offset;
+        Vector3 smoothedPosition = Vector3.Lerp(transform.position, desiredPosition, smoothSpeed * Time.deltaTime);
+        transform.position = smoothedPosition;
     }
-
 }
