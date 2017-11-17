@@ -173,7 +173,7 @@ public class PlayerMovement : MonoBehaviour
             }
         }
         //Check if theres any left input
-        else if ((Input.GetKey(PlayerPrefs.GetString("Move Left Key").ToLower())))
+        if ((Input.GetKey(PlayerPrefs.GetString("Move Left Key").ToLower())))
         {
             if (CanJump)
             {
@@ -221,7 +221,8 @@ public class PlayerMovement : MonoBehaviour
         if(PlayerRigid.velocity.y < 0)
         {
             PlayerRigid.velocity += Vector2.up * Physics2D.gravity.y * (fallMultiplier - 1) * Time.deltaTime;
-        } else if(PlayerRigid.velocity.y > 0 && !Input.GetKey(JumpKey))
+        }
+        else if(PlayerRigid.velocity.y > 0 && !Input.GetKey(JumpKey))
         {
             PlayerRigid.velocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier - 1) * Time.deltaTime;
         }

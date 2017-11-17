@@ -4,14 +4,8 @@ using UnityEngine;
 
 public class LightFlicks : MonoBehaviour {
 
-    //[SerializeField]
-    //GameObject OffLight;
-
-    //[SerializeField]
-    //GameObject OnLight;
-
     [SerializeField]
-    GameObject[] Lights = new GameObject[7];
+    public GameObject[] Lights = new GameObject[7];
 
     [SerializeField]
     Sprite OnLight;
@@ -30,7 +24,7 @@ public class LightFlicks : MonoBehaviour {
         //Set all of the lights to off until player is in the room
         foreach(GameObject Light in Lights)
         {
-            //Light.GetComponent<Light>().enabled = false; 
+            Light.transform.GetChild(3).transform.GetChild(0).GetComponent<Light>().enabled = false; 
         }
 	}
 	
@@ -41,10 +35,14 @@ public class LightFlicks : MonoBehaviour {
         if (Go)
         {
             //Start counting for lights
-            TimeAmount += Time.deltaTime;
+            TimeAmount += 2 * Time.deltaTime;
             //Turn on lights corresponding with time
-            //Lights[Mathf.Clamp(Mathf.RoundToInt(TimeAmount), 0, 6)].GetComponent<Light>().enabled = true;
+            Lights[Mathf.Clamp(Mathf.RoundToInt(TimeAmount), 0, 6)].transform.GetChild(3).transform.GetChild(0).GetComponent<Light>().enabled = true;
             Lights[Mathf.Clamp(Mathf.RoundToInt(TimeAmount), 0, 6)].transform.GetChild(3).GetComponent<SpriteRenderer>().sprite = OnLight;
+            if(Mathf.Round(TimeAmount) >= 6)
+            {
+                Go = false;
+            }
         }
 
 	}

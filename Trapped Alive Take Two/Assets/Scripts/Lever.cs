@@ -42,7 +42,7 @@ public class Lever : MonoBehaviour
             //Flip the lever
             this.transform.localScale = new Vector3(-this.transform.localScale.x, this.transform.localScale.y, this.transform.localScale.z);
 
-            Flipped = true;
+            //Flipped = true;
             //If the lever is on
             if (On)
             {
@@ -79,7 +79,7 @@ public class Lever : MonoBehaviour
         if (Col.transform.name == "Player")
         {
             //Check that the player is hitting it from the correct side
-            if ((StartPos == 'L' && !Col.transform.GetComponent<PlayerMovement>().Left) || (StartPos == 'R' && Col.transform.GetComponent<PlayerMovement>().Left))
+            if ((StartPos == 'L' && Col.transform.GetComponent<Rigidbody2D>().velocity.x > 0) || (StartPos == 'R' && Col.transform.GetComponent<Rigidbody2D>().velocity.x < 0))
                 //Turn the lever on or off
                 SwitchIO();
         }
@@ -104,7 +104,7 @@ public class Lever : MonoBehaviour
 
         if(Col.transform.name == "Player")
         {
-            Flipped = false;
+            //Flipped = false;
         }
     }
 }
