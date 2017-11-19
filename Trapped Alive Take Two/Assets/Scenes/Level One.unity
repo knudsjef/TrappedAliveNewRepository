@@ -352,10 +352,14 @@ Camera:
   field of view: 60
   orthographic: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   orthographic size: 3.96875
 =======
   orthographic size: 4.9895835
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+  orthographic size: 3.96875
+>>>>>>> parent of 5cb6b73... Minor Changes
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
@@ -1558,7 +1562,7 @@ Tilemap:
   - first: {x: -16, y: -2, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 29
+      m_TileSpriteIndex: 18
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -1701,10 +1705,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 29
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -1750,10 +1758,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 21
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 18
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -1790,10 +1802,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 29
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 18
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -1857,10 +1873,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 11
 =======
       m_TileSpriteIndex: 12
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 11
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -2891,7 +2911,7 @@ Tilemap:
   - first: {x: -3, y: 0, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 18
+      m_TileSpriteIndex: 29
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -2927,7 +2947,7 @@ Tilemap:
   - first: {x: 1, y: 0, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 12
+      m_TileSpriteIndex: 11
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -2948,6 +2968,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 12
 =======
       m_TileSpriteIndex: 11
@@ -2958,6 +2979,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 12
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -3146,7 +3170,7 @@ Tilemap:
   - first: {x: 24, y: 0, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 29
+      m_TileSpriteIndex: 18
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -3432,7 +3456,7 @@ Tilemap:
   - first: {x: -43, y: 1, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 1
+      m_TileSpriteIndex: 26
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -3441,7 +3465,7 @@ Tilemap:
   - first: {x: -42, y: 1, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 28
+      m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -3486,7 +3510,7 @@ Tilemap:
   - first: {x: -37, y: 1, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 12
+      m_TileSpriteIndex: 11
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -3495,7 +3519,7 @@ Tilemap:
   - first: {x: -36, y: 1, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -3630,7 +3654,7 @@ Tilemap:
   - first: {x: -21, y: 1, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 27
+      m_TileSpriteIndex: 4
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -3639,7 +3663,7 @@ Tilemap:
   - first: {x: -20, y: 1, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 20
+      m_TileSpriteIndex: 12
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -3820,10 +3844,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 21
 =======
       m_TileSpriteIndex: 29
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 21
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -3978,6 +4006,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 11
 =======
       m_TileSpriteIndex: 20
@@ -3991,6 +4020,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -4028,6 +4060,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 20
 =======
       m_TileSpriteIndex: 12
@@ -4041,6 +4074,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 20
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 11
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -4103,7 +4139,7 @@ Tilemap:
   - first: {x: 24, y: 1, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 17
+      m_TileSpriteIndex: 25
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -4148,7 +4184,7 @@ Tilemap:
   - first: {x: 29, y: 1, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 27
+      m_TileSpriteIndex: 4
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -4387,7 +4423,7 @@ Tilemap:
   - first: {x: -45, y: 2, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 18
+      m_TileSpriteIndex: 21
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -4477,7 +4513,7 @@ Tilemap:
   - first: {x: -35, y: 2, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 29
+      m_TileSpriteIndex: 21
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -4516,6 +4552,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 11
 =======
       m_TileSpriteIndex: 20
@@ -4526,6 +4563,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -4570,7 +4610,7 @@ Tilemap:
   - first: {x: -26, y: 2, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 2
+      m_TileSpriteIndex: 28
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -4597,7 +4637,7 @@ Tilemap:
   - first: {x: -23, y: 2, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 20
+      m_TileSpriteIndex: 11
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -4820,7 +4860,7 @@ Tilemap:
   - first: {x: 0, y: 2, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 22
+      m_TileSpriteIndex: 26
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -4829,7 +4869,7 @@ Tilemap:
   - first: {x: 1, y: 2, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -4856,7 +4896,7 @@ Tilemap:
   - first: {x: 4, y: 2, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 23
+      m_TileSpriteIndex: 19
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -4963,10 +5003,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 21
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 21
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -5011,7 +5055,7 @@ Tilemap:
   - first: {x: 19, y: 2, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 20
+      m_TileSpriteIndex: 11
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -5402,6 +5446,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 22
 =======
       m_TileSpriteIndex: 1
@@ -5415,6 +5460,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 22
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 26
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -5541,10 +5589,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 11
 =======
       m_TileSpriteIndex: 12
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 11
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -5697,7 +5749,7 @@ Tilemap:
   - first: {x: -4, y: 3, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 2
+      m_TileSpriteIndex: 28
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -5724,7 +5776,7 @@ Tilemap:
   - first: {x: -1, y: 3, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 19
+      m_TileSpriteIndex: 23
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -5761,10 +5813,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 29
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -5879,7 +5935,7 @@ Tilemap:
   - first: {x: 14, y: 3, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 25
+      m_TileSpriteIndex: 17
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -5933,7 +5989,7 @@ Tilemap:
   - first: {x: 20, y: 3, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 21
+      m_TileSpriteIndex: 18
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -5973,6 +6029,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 21
@@ -5986,6 +6043,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -6021,7 +6081,7 @@ Tilemap:
   - first: {x: 28, y: 3, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 4
+      m_TileSpriteIndex: 27
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -6049,10 +6109,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 26
 =======
       m_TileSpriteIndex: 22
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 26
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -6089,6 +6153,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 11
 =======
       m_TileSpriteIndex: 12
@@ -6099,6 +6164,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -6296,7 +6364,7 @@ Tilemap:
   - first: {x: -42, y: 4, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 28
+      m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -6367,10 +6435,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 21
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 18
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -6560,10 +6632,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 20
 =======
       m_TileSpriteIndex: 12
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -6680,7 +6756,7 @@ Tilemap:
   - first: {x: -2, y: 4, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 29
+      m_TileSpriteIndex: 21
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -6711,6 +6787,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 20
 =======
       m_TileSpriteIndex: 11
@@ -6724,6 +6801,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 20
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -6784,7 +6864,7 @@ Tilemap:
   - first: {x: 6, y: 4, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 25
+      m_TileSpriteIndex: 17
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -6793,7 +6873,7 @@ Tilemap:
   - first: {x: 7, y: 4, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 12
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -6802,6 +6882,7 @@ Tilemap:
   - first: {x: 8, y: 4, z: 0}
     second:
       m_TileIndex: 10
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6819,6 +6900,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -6827,7 +6911,7 @@ Tilemap:
   - first: {x: 9, y: 4, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 12
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -6854,7 +6938,7 @@ Tilemap:
   - first: {x: 12, y: 4, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 12
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -6885,6 +6969,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 22
 =======
       m_TileSpriteIndex: 1
@@ -6898,6 +6983,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 22
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 26
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -7041,7 +7129,7 @@ Tilemap:
   - first: {x: 31, y: 4, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 23
+      m_TileSpriteIndex: 19
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -7230,7 +7318,7 @@ Tilemap:
   - first: {x: -45, y: 5, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 25
+      m_TileSpriteIndex: 17
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -7348,10 +7436,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 1
 =======
       m_TileSpriteIndex: 22
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 1
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -7603,7 +7695,7 @@ Tilemap:
   - first: {x: -4, y: 5, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 27
+      m_TileSpriteIndex: 4
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -7621,7 +7713,7 @@ Tilemap:
   - first: {x: -2, y: 5, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 22
+      m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -7766,10 +7858,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 21
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 21
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -7860,10 +7956,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 21
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 21
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -7908,7 +8008,7 @@ Tilemap:
   - first: {x: 29, y: 5, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 12
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -7917,7 +8017,7 @@ Tilemap:
   - first: {x: 30, y: 5, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 28
+      m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -8244,6 +8344,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 21
 =======
       m_TileSpriteIndex: 29
@@ -8254,6 +8355,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 21
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 18
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -8308,10 +8412,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 22
 =======
       m_TileSpriteIndex: 26
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 22
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -8330,10 +8438,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 20
 =======
       m_TileSpriteIndex: 12
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -8477,7 +8589,7 @@ Tilemap:
   - first: {x: -7, y: 6, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -8517,6 +8629,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 29
 =======
       m_TileSpriteIndex: 21
@@ -8530,6 +8643,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 29
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 18
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -8656,10 +8772,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 29
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 18
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -8686,7 +8806,7 @@ Tilemap:
   - first: {x: 14, y: 6, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 29
+      m_TileSpriteIndex: 18
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -8716,6 +8836,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 21
@@ -8726,6 +8847,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -8770,7 +8894,7 @@ Tilemap:
   - first: {x: 22, y: 6, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 26
+      m_TileSpriteIndex: 22
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -8827,6 +8951,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 21
@@ -8837,6 +8962,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -8855,10 +8983,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 21
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 18
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -9198,7 +9330,7 @@ Tilemap:
   - first: {x: -31, y: 7, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 19
+      m_TileSpriteIndex: 23
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -9450,7 +9582,7 @@ Tilemap:
   - first: {x: -3, y: 7, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 23
+      m_TileSpriteIndex: 19
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -9477,7 +9609,7 @@ Tilemap:
   - first: {x: 0, y: 7, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 25
+      m_TileSpriteIndex: 17
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -9522,7 +9654,7 @@ Tilemap:
   - first: {x: 5, y: 7, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 4
+      m_TileSpriteIndex: 27
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -9585,7 +9717,7 @@ Tilemap:
   - first: {x: 12, y: 7, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -9594,7 +9726,7 @@ Tilemap:
   - first: {x: 13, y: 7, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 12
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -9603,7 +9735,7 @@ Tilemap:
   - first: {x: 14, y: 7, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 2
+      m_TileSpriteIndex: 28
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -9737,10 +9869,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 11
 =======
       m_TileSpriteIndex: 20
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 11
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -9759,10 +9895,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 12
 =======
       m_TileSpriteIndex: 20
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -10159,10 +10299,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 21
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 21
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -10282,6 +10426,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 1
 =======
       m_TileSpriteIndex: 26
@@ -10292,6 +10437,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 1
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 22
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -10301,10 +10449,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 11
 =======
       m_TileSpriteIndex: 12
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 11
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -10317,6 +10469,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 20
 =======
       m_TileSpriteIndex: 11
@@ -10330,6 +10483,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 20
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -10375,10 +10531,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 29
 =======
       m_TileSpriteIndex: 21
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -10514,10 +10674,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 29
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -10548,6 +10712,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 21
@@ -10561,6 +10726,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -10624,10 +10792,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 1
 =======
       m_TileSpriteIndex: 22
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 1
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -10649,6 +10821,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 1
 =======
       m_TileSpriteIndex: 22
@@ -10662,6 +10835,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 1
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 26
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -10949,7 +11125,7 @@ Tilemap:
   - first: {x: -42, y: 9, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 2
+      m_TileSpriteIndex: 28
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -11030,7 +11206,7 @@ Tilemap:
   - first: {x: -33, y: 9, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 29
+      m_TileSpriteIndex: 18
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -11165,7 +11341,7 @@ Tilemap:
   - first: {x: -18, y: 9, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 22
+      m_TileSpriteIndex: 26
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -11175,10 +11351,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 1
 =======
       m_TileSpriteIndex: 22
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 1
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -11298,6 +11478,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 29
 =======
       m_TileSpriteIndex: 18
@@ -11308,6 +11489,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 29
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 21
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -11343,7 +11527,7 @@ Tilemap:
   - first: {x: 0, y: 9, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 25
+      m_TileSpriteIndex: 17
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -11353,10 +11537,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 20
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -11473,7 +11661,7 @@ Tilemap:
   - first: {x: 14, y: 9, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 22
+      m_TileSpriteIndex: 26
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -11491,7 +11679,7 @@ Tilemap:
   - first: {x: 16, y: 9, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 26
+      m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -11828,6 +12016,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 11
 =======
       m_TileSpriteIndex: 12
@@ -11841,6 +12030,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -11862,6 +12054,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 22
 =======
       m_TileSpriteIndex: 26
@@ -11875,6 +12068,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 22
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 1
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -12030,6 +12226,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 1
 =======
       m_TileSpriteIndex: 26
@@ -12040,6 +12237,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 1
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 22
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -12048,7 +12248,7 @@ Tilemap:
   - first: {x: -24, y: 10, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 28
+      m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -12222,6 +12422,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 11
 =======
       m_TileSpriteIndex: 12
@@ -12232,6 +12433,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -12240,7 +12444,7 @@ Tilemap:
   - first: {x: -4, y: 10, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 19
+      m_TileSpriteIndex: 23
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -12376,6 +12580,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 21
 =======
       m_TileSpriteIndex: 18
@@ -12386,6 +12591,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 21
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -12505,6 +12713,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 22
 =======
       m_TileSpriteIndex: 26
@@ -12515,6 +12724,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 22
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 1
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -12523,7 +12735,7 @@ Tilemap:
   - first: {x: 23, y: 10, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 12
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -12532,7 +12744,7 @@ Tilemap:
   - first: {x: 24, y: 10, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 22
+      m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -12577,7 +12789,7 @@ Tilemap:
   - first: {x: 29, y: 10, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 12
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -12596,10 +12808,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 22
 =======
       m_TileSpriteIndex: 26
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 22
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -12788,7 +13004,7 @@ Tilemap:
   - first: {x: -45, y: 11, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 29
+      m_TileSpriteIndex: 21
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -12886,10 +13102,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 29
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 18
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -12971,10 +13191,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 11
 =======
       m_TileSpriteIndex: 12
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 11
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -12983,7 +13207,7 @@ Tilemap:
   - first: {x: -26, y: 11, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 2
+      m_TileSpriteIndex: 28
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -13010,7 +13234,7 @@ Tilemap:
   - first: {x: -23, y: 11, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -13040,6 +13264,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 11
 =======
       m_TileSpriteIndex: 20
@@ -13050,6 +13275,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -13211,7 +13439,7 @@ Tilemap:
   - first: {x: -2, y: 11, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 12
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -13220,7 +13448,7 @@ Tilemap:
   - first: {x: -1, y: 11, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 22
+      m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -13229,6 +13457,7 @@ Tilemap:
   - first: {x: 0, y: 11, z: 0}
     second:
       m_TileIndex: 10
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13242,6 +13471,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 26
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 1
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -13277,7 +13509,7 @@ Tilemap:
   - first: {x: 4, y: 11, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 25
+      m_TileSpriteIndex: 17
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -13314,6 +13546,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 20
 =======
       m_TileSpriteIndex: 12
@@ -13324,6 +13557,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 20
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 11
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -13358,10 +13594,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 12
 =======
       m_TileSpriteIndex: 20
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -13770,6 +14010,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 20
 =======
       m_TileSpriteIndex: 11
@@ -13783,6 +14024,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 20
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -13854,7 +14098,7 @@ Tilemap:
   - first: {x: -36, y: 12, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 29
+      m_TileSpriteIndex: 21
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -13930,6 +14174,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 21
 =======
       m_TileSpriteIndex: 29
@@ -13943,6 +14188,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 21
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 18
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -14240,6 +14488,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 11
 =======
       m_TileSpriteIndex: 20
@@ -14250,6 +14499,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -14307,6 +14559,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 29
@@ -14320,6 +14573,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 21
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -14382,7 +14638,7 @@ Tilemap:
   - first: {x: 16, y: 12, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 21
+      m_TileSpriteIndex: 18
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -14464,6 +14720,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 12
 =======
       m_TileSpriteIndex: 11
@@ -14474,6 +14731,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 12
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -14555,10 +14815,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 21
 =======
       m_TileSpriteIndex: 29
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 21
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -14741,6 +15005,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 21
 =======
       m_TileSpriteIndex: 18
@@ -14751,6 +15016,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 21
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -14780,6 +15048,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 26
 =======
       m_TileSpriteIndex: 22
@@ -14790,6 +15059,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 26
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 1
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -14915,7 +15187,7 @@ Tilemap:
   - first: {x: -28, y: 13, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 27
+      m_TileSpriteIndex: 4
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -15084,7 +15356,7 @@ Tilemap:
   - first: {x: -11, y: 13, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 18
+      m_TileSpriteIndex: 29
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -15147,7 +15419,7 @@ Tilemap:
   - first: {x: -4, y: 13, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 20
+      m_TileSpriteIndex: 12
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -15192,7 +15464,7 @@ Tilemap:
   - first: {x: 1, y: 13, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 12
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -15300,7 +15572,7 @@ Tilemap:
   - first: {x: 13, y: 13, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 26
+      m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -15309,7 +15581,7 @@ Tilemap:
   - first: {x: 14, y: 13, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 20
+      m_TileSpriteIndex: 11
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -15523,7 +15795,7 @@ Tilemap:
   - first: {x: -45, y: 14, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 21
+      m_TileSpriteIndex: 18
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -15604,7 +15876,7 @@ Tilemap:
   - first: {x: -36, y: 14, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 1
+      m_TileSpriteIndex: 26
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -15634,6 +15906,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 29
@@ -15644,6 +15917,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 21
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -15706,7 +15982,7 @@ Tilemap:
   - first: {x: -26, y: 14, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 4
+      m_TileSpriteIndex: 27
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -15806,10 +16082,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 29
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 18
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -15882,10 +16162,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 12
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -16033,6 +16317,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 21
 =======
       m_TileSpriteIndex: 18
@@ -16046,6 +16331,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 21
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -16072,7 +16360,7 @@ Tilemap:
   - first: {x: 12, y: 14, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 21
+      m_TileSpriteIndex: 29
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -16183,6 +16471,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 20
 =======
       m_TileSpriteIndex: 12
@@ -16193,6 +16482,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 20
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 11
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -16300,7 +16592,7 @@ Tilemap:
   - first: {x: -45, y: 15, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 29
+      m_TileSpriteIndex: 18
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -16319,10 +16611,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 29
 =======
       m_TileSpriteIndex: 21
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -16496,6 +16792,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 12
 =======
       m_TileSpriteIndex: 20
@@ -16506,6 +16803,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 12
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 11
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -16514,7 +16814,7 @@ Tilemap:
   - first: {x: -23, y: 15, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 12
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -16707,6 +17007,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 1
 =======
       m_TileSpriteIndex: 26
@@ -16720,6 +17021,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 1
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 22
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -16944,7 +17248,7 @@ Tilemap:
   - first: {x: 23, y: 15, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 21
+      m_TileSpriteIndex: 18
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -16981,10 +17285,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 20
 =======
       m_TileSpriteIndex: 12
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -17032,6 +17340,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 29
@@ -17042,6 +17351,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 21
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -17077,7 +17389,7 @@ Tilemap:
   - first: {x: -45, y: 16, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 4
+      m_TileSpriteIndex: 27
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -17249,10 +17561,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 12
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -17315,7 +17631,7 @@ Tilemap:
   - first: {x: -19, y: 16, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 4
+      m_TileSpriteIndex: 27
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -17345,6 +17661,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 29
 =======
       m_TileSpriteIndex: 18
@@ -17355,6 +17672,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 29
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 21
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -17510,6 +17830,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 11
 =======
       m_TileSpriteIndex: 12
@@ -17520,6 +17841,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -17659,7 +17983,7 @@ Tilemap:
   - first: {x: 13, y: 16, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 18
+      m_TileSpriteIndex: 21
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -17722,7 +18046,7 @@ Tilemap:
   - first: {x: 20, y: 16, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 23
+      m_TileSpriteIndex: 19
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -17794,7 +18118,7 @@ Tilemap:
   - first: {x: 28, y: 16, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 4
+      m_TileSpriteIndex: 27
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -18011,10 +18335,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 12
 =======
       m_TileSpriteIndex: 20
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -18186,10 +18514,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 20
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -18208,10 +18540,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 26
 =======
       m_TileSpriteIndex: 22
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 26
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -18319,7 +18655,7 @@ Tilemap:
   - first: {x: 4, y: 17, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 4
+      m_TileSpriteIndex: 27
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -18400,7 +18736,7 @@ Tilemap:
   - first: {x: 13, y: 17, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 19
+      m_TileSpriteIndex: 23
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -18437,10 +18773,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 12
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -18548,7 +18888,7 @@ Tilemap:
   - first: {x: 29, y: 17, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 25
+      m_TileSpriteIndex: 17
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -18587,6 +18927,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 11
 =======
       m_TileSpriteIndex: 20
@@ -18597,6 +18938,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -19027,10 +19371,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 29
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 18
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -19060,6 +19408,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 12
 =======
       m_TileSpriteIndex: 20
@@ -19070,6 +19419,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 12
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 11
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -19274,7 +19626,7 @@ Tilemap:
   - first: {x: 22, y: 18, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -19508,7 +19860,7 @@ Tilemap:
   - first: {x: -33, y: 19, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 27
+      m_TileSpriteIndex: 4
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -19618,6 +19970,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 11
 =======
       m_TileSpriteIndex: 12
@@ -19631,6 +19984,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -19774,7 +20130,7 @@ Tilemap:
   - first: {x: -7, y: 19, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -19883,10 +20239,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 21
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 18
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -19923,10 +20283,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 29
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -19944,7 +20308,7 @@ Tilemap:
   - first: {x: 11, y: 19, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -20110,6 +20474,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 26
 =======
       m_TileSpriteIndex: 1
@@ -20123,6 +20488,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 26
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 22
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -20135,6 +20503,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 22
 =======
       m_TileSpriteIndex: 1
@@ -20148,6 +20517,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 22
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 26
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -20220,10 +20592,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 29
 =======
       m_TileSpriteIndex: 21
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -20277,7 +20653,7 @@ Tilemap:
   - first: {x: -37, y: 20, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -20402,10 +20778,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 12
 =======
       m_TileSpriteIndex: 20
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -20451,10 +20831,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 1
 =======
       m_TileSpriteIndex: 26
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 1
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -20563,10 +20947,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 29
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -20602,7 +20990,7 @@ Tilemap:
   - first: {x: -4, y: 20, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -20611,7 +20999,7 @@ Tilemap:
   - first: {x: -3, y: 20, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 23
+      m_TileSpriteIndex: 19
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -20632,6 +21020,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 18
 =======
       m_TileSpriteIndex: 21
@@ -20642,6 +21031,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 18
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -20695,7 +21087,7 @@ Tilemap:
   - first: {x: 5, y: 20, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 18
+      m_TileSpriteIndex: 29
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -20785,7 +21177,7 @@ Tilemap:
   - first: {x: 15, y: 20, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 1
+      m_TileSpriteIndex: 26
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -20893,7 +21285,7 @@ Tilemap:
   - first: {x: 27, y: 20, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 4
+      m_TileSpriteIndex: 27
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -20902,7 +21294,7 @@ Tilemap:
   - first: {x: 28, y: 20, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 2
+      m_TileSpriteIndex: 28
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -20991,10 +21383,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 20
 =======
       m_TileSpriteIndex: 12
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -21003,6 +21399,7 @@ Tilemap:
   - first: {x: -44, y: 21, z: 0}
     second:
       m_TileIndex: 10
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -21020,6 +21417,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -21269,7 +21669,7 @@ Tilemap:
   - first: {x: -18, y: 21, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -21297,10 +21697,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 12
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -21322,6 +21726,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 12
 =======
       m_TileSpriteIndex: 11
@@ -21335,6 +21740,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 12
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -21343,6 +21751,7 @@ Tilemap:
   - first: {x: -12, y: 21, z: 0}
     second:
       m_TileIndex: 10
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -21356,6 +21765,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -21374,10 +21786,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 22
 =======
       m_TileSpriteIndex: 26
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 22
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -21387,10 +21803,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 20
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -21471,7 +21891,7 @@ Tilemap:
   - first: {x: 0, y: 21, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -21480,7 +21900,7 @@ Tilemap:
   - first: {x: 1, y: 21, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 12
+      m_TileSpriteIndex: 11
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -21832,10 +22252,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 29
 =======
       m_TileSpriteIndex: 21
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -21889,7 +22313,7 @@ Tilemap:
   - first: {x: -35, y: 22, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 29
+      m_TileSpriteIndex: 21
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -21962,10 +22386,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 29
 =======
       m_TileSpriteIndex: 21
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 29
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -22059,6 +22487,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 21
 =======
       m_TileSpriteIndex: 29
@@ -22072,6 +22501,9 @@ Tilemap:
 =======
       m_TileSpriteIndex: 21
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 18
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -22269,7 +22701,7 @@ Tilemap:
   - first: {x: 5, y: 22, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 21
+      m_TileSpriteIndex: 18
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -22351,10 +22783,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 11
 =======
       m_TileSpriteIndex: 12
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 11
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -22372,7 +22808,7 @@ Tilemap:
   - first: {x: 16, y: 22, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 12
+      m_TileSpriteIndex: 11
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -22382,10 +22818,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 20
 =======
       m_TileSpriteIndex: 11
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 20
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -22493,7 +22933,7 @@ Tilemap:
   - first: {x: 29, y: 22, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 4
+      m_TileSpriteIndex: 27
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -22503,10 +22943,14 @@ Tilemap:
     second:
       m_TileIndex: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_TileSpriteIndex: 22
 =======
       m_TileSpriteIndex: 1
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      m_TileSpriteIndex: 22
+>>>>>>> parent of 5cb6b73... Minor Changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -22635,6 +23079,7 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
   - m_RefCount: 17
@@ -22654,11 +23099,15 @@ Tilemap:
 =======
   - m_RefCount: 15
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+  - m_RefCount: 21
+>>>>>>> parent of 5cb6b73... Minor Changes
     m_Data: {fileID: 21300000, guid: 1d6c309276d2bc14c988c082fd6a4aea, type: 3}
-  - m_RefCount: 15
+  - m_RefCount: 21
     m_Data: {fileID: 21300000, guid: 4460894ebc17f204db5f65a9f1f4b191, type: 3}
   - m_RefCount: 3
     m_Data: {fileID: 21300000, guid: 3e015f2d72ecfc947b5716364cc48de2, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
   - m_RefCount: 25
 >>>>>>> 48c8bd4d60e9ffd2c4842efe9312f16eb5f94548
@@ -22670,6 +23119,9 @@ Tilemap:
 =======
   - m_RefCount: 17
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+  - m_RefCount: 19
+>>>>>>> parent of 5cb6b73... Minor Changes
     m_Data: {fileID: 21300000, guid: 6642d604fe63fd54b9f53263d7143271, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 21300000, guid: 67c9d8f75bfc2ca44ba298cac9d98a52, type: 3}
@@ -22683,6 +23135,7 @@ Tilemap:
     m_Data: {fileID: 21300000, guid: 25f1ce89bd984d248b32c9a3eee1da2b, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 21300000, guid: 9f2545fe10044d045b4d4748a6c84e65, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -22710,6 +23163,11 @@ Tilemap:
     m_Data: {fileID: 21300000, guid: 187f9029096d917468492b5d0904b009, type: 3}
   - m_RefCount: 51
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+  - m_RefCount: 41
+    m_Data: {fileID: 21300000, guid: 187f9029096d917468492b5d0904b009, type: 3}
+  - m_RefCount: 53
+>>>>>>> parent of 5cb6b73... Minor Changes
     m_Data: {fileID: 21300000, guid: d97da18d3d4e1a14ba934420ca9a83c1, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 21300000, guid: 7251ac2093a34324fa0e32e0ba423512, type: 3}
@@ -22719,6 +23177,7 @@ Tilemap:
     m_Data: {fileID: 21300000, guid: 881bd15f9ccdc1d4b89e336febe7519a, type: 3}
   - m_RefCount: 71
     m_Data: {fileID: 21300000, guid: 1e90a4414b412214faa5a5e82a4612d7, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -22746,15 +23205,19 @@ Tilemap:
 =======
   - m_RefCount: 24
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+  - m_RefCount: 27
+>>>>>>> parent of 5cb6b73... Minor Changes
     m_Data: {fileID: 21300000, guid: 5d6da705af256f7479b7c563be0e3651, type: 3}
-  - m_RefCount: 54
+  - m_RefCount: 46
     m_Data: {fileID: 21300000, guid: 4fd61b709b8fcfb4e9e00123c9e44cc6, type: 3}
-  - m_RefCount: 17
+  - m_RefCount: 21
     m_Data: {fileID: 21300000, guid: 740c2f54651aa3147a37c71292339717, type: 3}
-  - m_RefCount: 42
+  - m_RefCount: 58
     m_Data: {fileID: 21300000, guid: a0fd90647097e0341839a9c44ba4c374, type: 3}
-  - m_RefCount: 43
+  - m_RefCount: 46
     m_Data: {fileID: 21300000, guid: b630dbec11241554f9a5f8ed281225dd, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
   - m_RefCount: 14
 >>>>>>> 48c8bd4d60e9ffd2c4842efe9312f16eb5f94548
@@ -22783,16 +23246,24 @@ Tilemap:
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
 =======
   - m_RefCount: 23
+=======
+  - m_RefCount: 15
+>>>>>>> parent of 5cb6b73... Minor Changes
     m_Data: {fileID: 21300000, guid: 9e46aef494bcc374eae6b50bdfb621ac, type: 3}
-  - m_RefCount: 37
+  - m_RefCount: 33
     m_Data: {fileID: 21300000, guid: 8bda8c81f57e4784098e2826876b086c, type: 3}
   - m_RefCount: 1073
     m_Data: {fileID: 21300000, guid: 2e6a9bd9b56fc0f4bb50888e24263151, type: 3}
+<<<<<<< HEAD
   - m_RefCount: 13
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+  - m_RefCount: 10
+>>>>>>> parent of 5cb6b73... Minor Changes
     m_Data: {fileID: 21300000, guid: c127e188125237942b1ee00ecf6d19e3, type: 3}
-  - m_RefCount: 17
+  - m_RefCount: 19
     m_Data: {fileID: 21300000, guid: c417eebae0599914a8a0777b1e22be94, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -22823,11 +23294,18 @@ Tilemap:
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
 =======
   - m_RefCount: 58
+=======
+  - m_RefCount: 56
+>>>>>>> parent of 5cb6b73... Minor Changes
     m_Data: {fileID: 21300000, guid: 97d281f82ccfc4942998d60d5fb2e0dc, type: 3}
-  - m_RefCount: 35
+  - m_RefCount: 29
     m_Data: {fileID: 21300000, guid: 2732b330a2d9f2d47a08a42fd8bdd7c1, type: 3}
+<<<<<<< HEAD
   - m_RefCount: 45
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+  - m_RefCount: 50
+>>>>>>> parent of 5cb6b73... Minor Changes
     m_Data: {fileID: 21300000, guid: 616c119cc3ff2da469de855090bda75f, type: 3}
   - m_RefCount: 46
     m_Data: {fileID: 21300000, guid: 5dd5540306575e84e8465e5f582be01c, type: 3}
@@ -66572,6 +67050,7 @@ Camera:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   orthographic size: 3.7604165
 =======
   orthographic size: 4.9895835
@@ -66582,6 +67061,9 @@ Camera:
 =======
   orthographic size: 3.7604165
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+  orthographic size: 3.96875
+>>>>>>> parent of 5cb6b73... Minor Changes
   m_Depth: 1
   m_CullingMask:
     serializedVersion: 2
