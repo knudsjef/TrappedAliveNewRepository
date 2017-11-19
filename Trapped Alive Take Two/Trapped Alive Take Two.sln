@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trapped Alive Take Two.Plugins", "Trapped Alive Take Two.Plugins.csproj", "{DBD413EE-8A38-E55B-D523-71ADC16F0C26}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trapped Alive Take Two", "Trapped Alive Take Two.csproj", "{7CFA70C8-B77A-3652-3AAC-2DEB3187189C}"

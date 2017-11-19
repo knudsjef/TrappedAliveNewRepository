@@ -20,12 +20,16 @@ MonoBehaviour:
     y: 30
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     width: 1536
     height: 731
   m_MinSize: {x: 679, y: 321}
   m_MaxSize: {x: 12004, y: 8021}
   vertical: 0
   controlID: 2333
+<<<<<<< HEAD
 =======
     width: 1920
     height: 947
@@ -42,6 +46,8 @@ MonoBehaviour:
   vertical: 0
   controlID: 96
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -66,10 +72,14 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     x: 217
     y: 19
     width: 855
     height: 378
+<<<<<<< HEAD
 =======
     x: 271
     y: 19
@@ -82,6 +92,8 @@ MonoBehaviour:
     width: 801
     height: 398
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
   m_Stats: 0
@@ -92,10 +104,14 @@ MonoBehaviour:
     m_VRangeLocked: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     m_HBaseRangeMin: -427.5
     m_HBaseRangeMax: 427.5
     m_VBaseRangeMin: -180.5
     m_VBaseRangeMax: 180.5
+<<<<<<< HEAD
 =======
     m_HBaseRangeMin: -534.5
     m_HBaseRangeMax: 534.5
@@ -108,6 +124,8 @@ MonoBehaviour:
     m_VBaseRangeMin: -190.5
     m_VBaseRangeMax: 190.5
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -126,10 +144,14 @@ MonoBehaviour:
       y: 17
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
       width: 855
       height: 361
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 427.5, y: 180.5}
+<<<<<<< HEAD
 =======
       width: 1069
       height: 479
@@ -142,6 +164,8 @@ MonoBehaviour:
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 400.5, y: 190.5}
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -150,10 +174,14 @@ MonoBehaviour:
       serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
       x: -427.5
       y: -180.5
       width: 855
       height: 361
+<<<<<<< HEAD
 =======
       x: -534.5
       y: -239.5
@@ -166,10 +194,13 @@ MonoBehaviour:
       width: 801
       height: 381
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_LastWindowPixelSize: {x: 855, y: 378}
@@ -179,6 +210,9 @@ MonoBehaviour:
 =======
   m_LastWindowPixelSize: {x: 801, y: 398}
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+  m_LastWindowPixelSize: {x: 855, y: 378}
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -202,12 +236,16 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     width: 1074
     height: 731
   m_MinSize: {x: 404, y: 321}
   m_MaxSize: {x: 8004, y: 8021}
   vertical: 1
   controlID: 2334
+<<<<<<< HEAD
 =======
     width: 1342
     height: 947
@@ -224,6 +262,8 @@ MonoBehaviour:
   vertical: 1
   controlID: 97
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,12 +284,16 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     width: 1074
     height: 399
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
   controlID: 2155
+<<<<<<< HEAD
 =======
     width: 1342
     height: 517
@@ -266,6 +310,8 @@ MonoBehaviour:
   vertical: 0
   controlID: 73
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -284,10 +330,14 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     width: 215
     height: 399
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
+<<<<<<< HEAD
 =======
     width: 269
     height: 517
@@ -300,6 +350,8 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -331,6 +383,9 @@ MonoBehaviour:
     y: 92
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     width: 213
     height: 378
   m_TreeViewState:
@@ -338,6 +393,7 @@ MonoBehaviour:
     m_SelectedIDs: 542d0000
     m_LastClickedID: 11604
     m_ExpandedIDs: 9efbffff00000000a82c0000362d0000
+<<<<<<< HEAD
 =======
     width: 267
     height: 496
@@ -356,6 +412,8 @@ MonoBehaviour:
     m_LastClickedID: 0
     m_ExpandedIDs: 9efbffff00000000
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -394,16 +452,13 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     x: 215
     y: 0
     width: 859
     height: 399
-=======
-    x: 269
-    y: 0
-    width: 1073
-    height: 517
->>>>>>> 48c8bd4d60e9ffd2c4842efe9312f16eb5f94548
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
 =======
@@ -444,6 +499,9 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     x: 217
 =======
     x: 204
@@ -451,18 +509,13 @@ MonoBehaviour:
     y: 92
     width: 868
     height: 378
-=======
-    x: 271
-    y: 92
-    width: 1069
-    height: 496
->>>>>>> 48c8bd4d60e9ffd2c4842efe9312f16eb5f94548
   m_SceneLighting: 1
-  lastFramingTime: 3909.2394813324654
+  lastFramingTime: 9641.514410790141
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: {x: 7.0669255, y: 2.222519, z: 0.203125}
@@ -478,6 +531,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 7.770399, y: 1.7049956, z: 0.25976562}
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+    m_Target: {x: 7.0669255, y: 2.222519, z: 0.203125}
+    speed: 2
+    m_Value: {x: 7.0669255, y: 2.222519, z: 0.203125}
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -496,14 +554,15 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     zGrid:
-      m_Target: 0
+      m_Target: 1
       speed: 2
-      m_Value: 0
+      m_Value: 1
   m_Rotation:
     m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: 14.40346
@@ -519,11 +578,16 @@ MonoBehaviour:
     speed: 2
     m_Value: 8.789474
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+    m_Target: 14.40346
+    speed: 2
+    m_Value: 14.40346
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
   m_Ortho:
     m_Target: 1
     speed: 2
     m_Value: 1
-  m_ShowGlobalGrid: 0
+  m_ShowGlobalGrid: 1
   m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
@@ -547,12 +611,16 @@ MonoBehaviour:
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     y: 399
     width: 1074
     height: 332
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 11}
+<<<<<<< HEAD
 =======
     y: 517
     width: 1342
@@ -569,6 +637,8 @@ MonoBehaviour:
   m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 10}
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
   m_Panes:
   - {fileID: 10}
   - {fileID: 11}
@@ -598,10 +668,10 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
     x: 0
-<<<<<<< HEAD
     y: 491
     width: 1072
     height: 311
+<<<<<<< HEAD
 =======
     y: 609
     width: 1340
@@ -613,6 +683,8 @@ MonoBehaviour:
     width: 1005
     height: 327
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -627,11 +699,15 @@ MonoBehaviour:
     m_Folders:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets
+<<<<<<< HEAD
 =======
     - Assets/Urban's Shite/Sprites/Placeholders/Lighting Silhouettes
   m_ViewMode: 1
@@ -646,16 +722,19 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Standard Assets/Effects/ImageEffects/Scripts
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: U:\Unity Stuff\TrappedAliveNewRepository\Trapped Alive Take Two
+  m_LastProjectPath: C:\Users\Jeffery\Documents\TrappedAliveRepository\TrappedAliveNewRepository\Trapped
+    Alive Take Two
   m_IsLocked: 0
   m_FolderTreeState:
-<<<<<<< HEAD
     scrollPos: {x: 0, y: 58}
 <<<<<<< HEAD
     m_SelectedIDs: be280000
     m_LastClickedID: 10430
     m_ExpandedIDs: 00000000be280000da28000052290000cc290000d6290000102a0000402a0000702a0000d42a0000742b0000a22b0000b22b0000e02b000000ca9a3bffffff7f
+<<<<<<< HEAD
 =======
     scrollPos: {x: 0, y: 76}
     m_SelectedIDs: 5c290000
@@ -667,6 +746,8 @@ MonoBehaviour:
     m_LastClickedID: 10462
     m_ExpandedIDs: 00000000ba280000d62800004e290000c8290000d22900000c2a00003c2a00006c2a0000d02a0000702b00009e2b0000ae2b0000dc2b000000ca9a3bffffff7f
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -682,7 +763,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 9}
+      m_ClientGUIView: {fileID: 0}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -696,6 +777,7 @@ MonoBehaviour:
     m_LastClickedID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000be280000da28000052290000cc290000d6290000102a0000402a0000702a0000d42a0000742b0000a22b0000b22b0000e02b000000ca9a3bffffff7f
 =======
     m_ExpandedIDs: 00000000ba2800004e2900005c2900003e2a00005e2a00006e2a0000d22a0000782b000000ca9a3bffffff7f
@@ -703,6 +785,9 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 00000000ba280000d62800004e290000c8290000d22900000c2a00003c2a00006c2a0000d02a0000702b00009e2b0000ae2b0000dc2b0000
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+    m_ExpandedIDs: 00000000be280000da28000052290000cc290000d6290000102a0000402a0000702a0000d42a0000742b0000a22b0000b22b0000e02b000000ca9a3bffffff7f
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -727,10 +812,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: c02c0000
-    m_LastClickedInstanceID: 11456
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: 102b0000
+    m_ExpandedInstanceIDs: e02a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -756,7 +841,7 @@ MonoBehaviour:
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
-  m_DirectoriesAreaWidth: 192
+  m_DirectoriesAreaWidth: 115
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -791,30 +876,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
-  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Children:
-  - {fileID: 13}
-  - {fileID: 15}
-  m_Position:
-    serializedVersion: 2
-    x: 1342
-    y: 0
-    width: 578
-    height: 947
-  m_MinSize: {x: 277, y: 292}
-  m_MaxSize: {x: 4002, y: 8042}
-  vertical: 1
-  controlID: 4508
---- !u!114 &13
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -823,6 +884,9 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     x: 1074
 =======
     x: 1007
@@ -833,20 +897,12 @@ MonoBehaviour:
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 13}
-=======
-    x: 0
-    y: 0
-    width: 578
-    height: 631
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 14}
->>>>>>> 48c8bd4d60e9ffd2c4842efe9312f16eb5f94548
   m_Panes:
+  - {fileID: 13}
   - {fileID: 14}
   m_Selected: 0
   m_LastSelected: 0
---- !u!114 &14
+--- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -870,11 +926,15 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     x: 1076
     y: 92
     width: 460
     height: 710
   m_ScrollPosition: {x: 0, y: 410.95508}
+<<<<<<< HEAD
 =======
     x: 1344
     y: 92
@@ -889,38 +949,15 @@ MonoBehaviour:
     height: 746
   m_ScrollPosition: {x: 0, y: 0}
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+>>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
---- !u!114 &15
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Children: []
-  m_Position:
-    serializedVersion: 2
-    x: 0
-    y: 631
-    width: 578
-    height: 316
-  m_MinSize: {x: 242, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 16}
-  m_Panes:
-  - {fileID: 16}
-  m_Selected: 0
-  m_LastSelected: 0
---- !u!114 &16
+--- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -941,10 +978,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1344
-    y: 723
-    width: 576
-    height: 295
+    x: 1076
+    y: 92
+    width: 460
+    height: 710
   m_PreviewResizer:
     m_CachedPref: -50
     m_ControlHash: 510661707
