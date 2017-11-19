@@ -272,6 +272,7 @@ public class PlayerMovement : MonoBehaviour
                 PlayerRigid.velocity = new Vector2(2 * PlayerRigid.velocity.x, JumpHeight);
                 //The player can no longer jump
                 CanJump = false;
+                Debug.Log(PlayerRigid.velocity.x);
             }
             //If the player is not a square
             else
