@@ -18,6 +18,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     width: 1536
@@ -30,6 +31,10 @@ MonoBehaviour:
 =======
     width: 1920
     height: 997
+=======
+    width: 1440
+    height: 817
+>>>>>>> parent of e746a2a... dunno
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
@@ -73,6 +78,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     width: 1536
@@ -85,6 +91,10 @@ MonoBehaviour:
     width: 1920
     height: 997
 >>>>>>> parent of 5cb6b73... Minor Changes
+=======
+    width: 1440
+    height: 817
+>>>>>>> parent of e746a2a... dunno
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
@@ -106,6 +116,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1536
 =======
     width: 1920
@@ -116,6 +127,9 @@ MonoBehaviour:
 =======
     width: 1536
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+    width: 1440
+>>>>>>> parent of e746a2a... dunno
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -138,6 +152,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 761
     width: 1536
 =======
@@ -152,6 +167,10 @@ MonoBehaviour:
     y: 761
     width: 1536
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+    y: 797
+    width: 1440
+>>>>>>> parent of e746a2a... dunno
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -173,6 +192,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -211,6 +231,14 @@ MonoBehaviour:
 =======
   controlID: 114
 >>>>>>> parent of 5cb6b73... Minor Changes
+=======
+    width: 1440
+    height: 767
+  m_MinSize: {x: 683, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
+  vertical: 0
+  controlID: 58
+>>>>>>> parent of e746a2a... dunno
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -229,6 +257,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -267,6 +296,14 @@ MonoBehaviour:
 =======
   controlID: 68
 >>>>>>> parent of 5cb6b73... Minor Changes
+=======
+    width: 1007
+    height: 767
+  m_MinSize: {x: 406, y: 492}
+  m_MaxSize: {x: 10002, y: 14042}
+  vertical: 1
+  controlID: 30
+>>>>>>> parent of e746a2a... dunno
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -285,6 +322,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -323,6 +361,14 @@ MonoBehaviour:
 =======
   controlID: 40
 >>>>>>> parent of 5cb6b73... Minor Changes
+=======
+    width: 1007
+    height: 419
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
+  vertical: 0
+  controlID: 31
+>>>>>>> parent of e746a2a... dunno
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -342,6 +388,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 215
     height: 399
 =======
@@ -356,6 +403,10 @@ MonoBehaviour:
     width: 215
     height: 399
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+    width: 202
+    height: 419
+>>>>>>> parent of e746a2a... dunno
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 13}
@@ -377,6 +428,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -430,6 +482,20 @@ MonoBehaviour:
   m_Selected: 1
   m_LastSelected: 0
 >>>>>>> parent of b461ca8... idk what this is i forgot
+=======
+    x: 202
+    y: 0
+    width: 805
+    height: 419
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 12}
+  m_Panes:
+  - {fileID: 14}
+  - {fileID: 12}
+  m_Selected: 1
+  m_LastSelected: 0
+>>>>>>> parent of e746a2a... dunno
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -445,6 +511,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -466,6 +533,11 @@ MonoBehaviour:
     y: 517
     width: 1342
     height: 430
+=======
+    y: 419
+    width: 1007
+    height: 348
+>>>>>>> parent of e746a2a... dunno
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 15}
@@ -538,6 +610,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     x: 1074
@@ -553,6 +626,12 @@ MonoBehaviour:
     width: 578
     height: 947
 >>>>>>> parent of 5cb6b73... Minor Changes
+=======
+    x: 1007
+    y: 0
+    width: 433
+    height: 767
+>>>>>>> parent of e746a2a... dunno
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
@@ -586,6 +665,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     x: 217
@@ -607,6 +687,12 @@ MonoBehaviour:
 >>>>>>> parent of b461ca8... idk what this is i forgot
 =======
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+    x: 2124
+    y: 92
+    width: 801
+    height: 398
+>>>>>>> parent of e746a2a... dunno
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
   m_Stats: 0
@@ -615,6 +701,7 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -633,10 +720,13 @@ MonoBehaviour:
     m_VBaseRangeMax: 454.5
 >>>>>>> 48c8bd4d60e9ffd2c4842efe9312f16eb5f94548
 =======
+=======
+>>>>>>> parent of e746a2a... dunno
     m_HBaseRangeMin: -400.5
     m_HBaseRangeMax: 400.5
     m_VBaseRangeMin: -190.5
     m_VBaseRangeMax: 190.5
+<<<<<<< HEAD
 >>>>>>> parent of b461ca8... idk what this is i forgot
 =======
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
@@ -646,6 +736,8 @@ MonoBehaviour:
     m_VBaseRangeMin: -239.5
     m_VBaseRangeMax: 239.5
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+>>>>>>> parent of e746a2a... dunno
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -662,6 +754,7 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -693,12 +786,19 @@ MonoBehaviour:
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 534.5, y: 239.5}
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+      width: 801
+      height: 381
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 400.5, y: 190.5}
+>>>>>>> parent of e746a2a... dunno
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -717,10 +817,13 @@ MonoBehaviour:
       height: 909
 >>>>>>> 48c8bd4d60e9ffd2c4842efe9312f16eb5f94548
 =======
+=======
+>>>>>>> parent of e746a2a... dunno
       x: -400.5
       y: -190.5
       width: 801
       height: 381
+<<<<<<< HEAD
 >>>>>>> parent of b461ca8... idk what this is i forgot
 =======
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
@@ -730,10 +833,13 @@ MonoBehaviour:
       width: 1069
       height: 479
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+>>>>>>> parent of e746a2a... dunno
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -751,6 +857,9 @@ MonoBehaviour:
 =======
   m_LastWindowPixelSize: {x: 1069, y: 496}
 >>>>>>> parent of 48c8bd4... Lighting Changes
+=======
+  m_LastWindowPixelSize: {x: 801, y: 398}
+>>>>>>> parent of e746a2a... dunno
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -778,6 +887,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1920
     y: 92
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -822,6 +932,15 @@ MonoBehaviour:
     m_LastClickedID: 0
     m_ExpandedIDs: bef0ffff00000000
 >>>>>>> parent of 5cb6b73... Minor Changes
+=======
+    width: 200
+    height: 398
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 02020000
+    m_LastClickedID: 0
+    m_ExpandedIDs: a2f0ffffb8f0ffffccf0ffffdcf0ffffe2f0ffff00f1ffff9efbffff00000000
+>>>>>>> parent of e746a2a... dunno
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -869,6 +988,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     x: 217
@@ -887,6 +1007,12 @@ MonoBehaviour:
   m_SceneLighting: 0
 >>>>>>> parent of 48c8bd4... Lighting Changes
 =======
+=======
+    x: 204
+    y: 92
+    width: 868
+    height: 378
+>>>>>>> parent of e746a2a... dunno
   m_SceneLighting: 1
 >>>>>>> parent of 5cb6b73... Minor Changes
   lastFramingTime: 9641.514410790141
@@ -894,6 +1020,7 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -927,6 +1054,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 6.283794, y: 1.9326441, z: 0.20496163}
 >>>>>>> parent of 5cb6b73... Minor Changes
+=======
+    m_Target: {x: 7.770399, y: 1.7049956, z: 0.25976562}
+    speed: 2
+    m_Value: {x: 7.770399, y: 1.7049956, z: 0.25976562}
+>>>>>>> parent of e746a2a... dunno
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -953,6 +1085,7 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -986,6 +1119,11 @@ MonoBehaviour:
     speed: 2
     m_Value: 14.264025
 >>>>>>> parent of 5cb6b73... Minor Changes
+=======
+    m_Target: 8.789474
+    speed: 2
+    m_Value: 8.789474
+>>>>>>> parent of e746a2a... dunno
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1020,6 +1158,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 491
     width: 1072
@@ -1031,13 +1170,18 @@ MonoBehaviour:
     height: 409
 >>>>>>> 48c8bd4d60e9ffd2c4842efe9312f16eb5f94548
 =======
+=======
+>>>>>>> parent of e746a2a... dunno
     x: 1920
     y: 511
     width: 1005
     height: 327
+<<<<<<< HEAD
 >>>>>>> parent of b461ca8... idk what this is i forgot
 =======
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
+=======
+>>>>>>> parent of e746a2a... dunno
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -1050,6 +1194,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1093,6 +1238,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
 >>>>>>> parent of 5cb6b73... Minor Changes
+=======
+    - Assets/Standard Assets/Effects/ImageEffects/Scripts
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Standard Assets/Effects/ImageEffects/Scripts
+>>>>>>> parent of e746a2a... dunno
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Jeffery\Documents\TrappedAliveRepository\TrappedAliveNewRepository\Trapped
     Alive Take Two
@@ -1127,10 +1279,16 @@ MonoBehaviour:
 >>>>>>> parent of 48c8bd4... Lighting Changes
 =======
     scrollPos: {x: 0, y: 58}
+<<<<<<< HEAD
     m_SelectedIDs: dc310000
     m_LastClickedID: 12764
     m_ExpandedIDs: 00000000dc310000e8310000123200003c3200004432000068320000803200009e320000d03200001c3300002a330000303300004033000000ca9a3bffffff7f
 >>>>>>> parent of 5cb6b73... Minor Changes
+=======
+    m_SelectedIDs: de280000
+    m_LastClickedID: 10462
+    m_ExpandedIDs: 00000000ba280000d62800004e290000c8290000d22900000c2a00003c2a00006c2a0000d02a0000702b00009e2b0000ae2b0000dc2b000000ca9a3bffffff7f
+>>>>>>> parent of e746a2a... dunno
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1163,6 +1321,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000be280000da28000052290000cc290000d6290000102a0000402a0000702a0000d42a0000742b0000a22b0000b22b0000e02b000000ca9a3bffffff7f
 =======
     m_ExpandedIDs: 00000000ba2800004e2900005c2900003e2a00005e2a00006e2a0000d22a0000782b000000ca9a3bffffff7f
@@ -1179,6 +1338,9 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 00000000dc310000e8310000123200003c3200004432000068320000803200009e320000d03200001c3300002a3300003033000040330000
 >>>>>>> parent of 5cb6b73... Minor Changes
+=======
+    m_ExpandedIDs: 00000000ba280000d62800004e290000c8290000d22900000c2a00003c2a00006c2a0000d02a0000702b00009e2b0000ae2b0000dc2b0000
+>>>>>>> parent of e746a2a... dunno
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1206,6 +1368,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: e02a0000
 =======
@@ -1214,6 +1377,9 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: 
 >>>>>>> parent of 48c8bd4... Lighting Changes
 =======
+=======
+    m_HadKeyboardFocusLastEvent: 0
+>>>>>>> parent of e746a2a... dunno
     m_ExpandedInstanceIDs: e02a0000
 >>>>>>> parent of 5cb6b73... Minor Changes
     m_RenameOverlay:
@@ -1293,6 +1459,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 9e9e231... Merge branch 'master' of https://github.com/knudsjef/TrappedAliveNewRepository
     x: 1076
@@ -1322,6 +1489,12 @@ MonoBehaviour:
 >>>>>>> parent of 48c8bd4... Lighting Changes
 =======
     height: 926
+=======
+    x: 2929
+    y: 92
+    width: 431
+    height: 746
+>>>>>>> parent of e746a2a... dunno
   m_ScrollPosition: {x: 0, y: 0}
 >>>>>>> parent of 5cb6b73... Minor Changes
   m_InspectorMode: 0
